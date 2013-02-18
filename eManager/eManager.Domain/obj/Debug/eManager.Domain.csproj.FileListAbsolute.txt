@@ -1,0 +1,4 @@
+C:\Users\Harsha.raikar\documents\visual studio 2010\Projects\eManager.Domain\eManager.Domain\bin\Debug\eManager.Domain.dll
+C:\Users\Harsha.raikar\documents\visual studio 2010\Projects\eManager.Domain\eManager.Domain\bin\Debug\eManager.Domain.pdb
+C:\Users\Harsha.raikar\documents\visual studio 2010\Projects\eManager.Domain\eManager.Domain\obj\Debug\eManager.Domain.dll
+C:\Users\Harsha.raikar\documents\visual studio 2010\Projects\eManager.Domain\eManager.Domain\obj\Debug\eManager.Domain.pdb

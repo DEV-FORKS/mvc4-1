@@ -1,0 +1,8 @@
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager.Domain\eManager.Domain\bin\Release\eManager.Domain.dll
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager.Domain\eManager.Domain\bin\Release\eManager.Domain.pdb
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager.Domain\eManager.Domain\obj\Release\eManager.Domain.dll
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager.Domain\eManager.Domain\obj\Release\eManager.Domain.pdb
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager\eManager.Domain\bin\Release\eManager.Domain.dll
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager\eManager.Domain\bin\Release\eManager.Domain.pdb
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager\eManager.Domain\obj\Release\eManager.Domain.dll
+C:\Users\Harsha.raikar\Documents\GitHub\mvc4\eManager\eManager.Domain\obj\Release\eManager.Domain.pdb
